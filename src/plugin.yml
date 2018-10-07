@@ -1,0 +1,6 @@
+name: CreativeNoClip
+author: Turqmelon
+version: 1.0
+depend: [MelonCore]
+main: com.turqmelon.CreativeNoClip.CreativeNoClip
+description: Allows simple no-clip while in creative mode.
